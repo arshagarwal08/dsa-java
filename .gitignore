@@ -1,0 +1,6 @@
+# Ignore class files
+*.class
+
+# Ignore compiled folders (if using IDE like IntelliJ or Eclipse)
+out/
+bin/
